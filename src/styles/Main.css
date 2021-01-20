@@ -60,8 +60,8 @@
 }
 
 .input-range__slider {
-  background: #fed538;
-  border: 1px solid #fed538;
+  background: #29a4a8;
+  border: 1px solid #29a4a8;
 }
 
 .input-range__label {
@@ -72,7 +72,7 @@
 }
 
 .input-range__track--active {
-  background: #fed538;
+  background: #29a4a8;
 }
 
 @media (max-width: 767px) {

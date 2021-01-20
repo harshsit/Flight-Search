@@ -6,7 +6,7 @@ import InputWithAutocomplete from "../components/InputWithAutocomplete";
 import Tag from "../components/Tag";
 import "../styles/SearchBox.css";
 import originicon from "../static/blackplace.png";
-import desticon from "../static/yellowplace.png";
+import desticon from "../static/imageedit_3_6507318896.png";
 import departicon from "../static/take-off.png";
 import returnicon from "../static/return.png";
 import passengericon from "../static/passenger.png";
