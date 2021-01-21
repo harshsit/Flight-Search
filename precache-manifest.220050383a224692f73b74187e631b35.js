@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "89a45dbb4fb038d50715",
-    "url": "/Flight-Search/static/css/main.78002f5a.chunk.css"
+    "revision": "ff587bfed4ef023c7b28",
+    "url": "/Flight-Search/static/css/main.d5c9298a.chunk.css"
   },
   {
-    "revision": "89a45dbb4fb038d50715",
+    "revision": "ff587bfed4ef023c7b28",
     "url": "/Flight-Search/static/js/main.8cac2c57.chunk.js"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/Flight-Search/static/media/plane-841441_1920.33bf7415.jpg"
   },
   {
-    "revision": "6beb93dbe75f19a932e59c0d42eb0c09",
+    "revision": "437aa17c73638b22ad388a6c193e6d60",
     "url": "/Flight-Search/index.html"
   }
 ];
