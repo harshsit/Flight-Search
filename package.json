@@ -1,7 +1,7 @@
 {
   "homepage": "http://harshsit.github.io/Flight-Search",
   "name": "flight-search",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "enzyme": "^3.9.0",
